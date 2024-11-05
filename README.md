@@ -1,6 +1,5 @@
 ### **CMSGuard**
 
-**Description:**
 **CMSGuard** is a powerful and efficient vulnerability scanner designed to identify security weaknesses in popular Content Management Systems (CMS), such as WordPress and Joomla. By automating the detection of common vulnerabilities, misconfigurations, and security issues, CMSGuard empowers website administrators and developers to proactively secure their platforms. With its user-friendly interface and straightforward command-line usage, CMSGuard makes vulnerability assessment accessible for both beginners and experienced professionals.
 
 **Key Features:**
